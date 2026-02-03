@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">distractionKiller</string>
+
+    <string name="accessibility_service_description">
+        Distraction Killer App Blocker
+    </string>
 </resources>
